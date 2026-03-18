@@ -1,4 +1,6 @@
 nombre = 'Carolina'
 apellido = 'Bailon'
-print('Mi nombre es :' + nombre)
-print('Mi apellido es:' + apellido)
+edad = 27
+print('Mi nombre es :' +{nombre})
+print('Mi apellido es:' + {apellido})
+print('Mi edad es:' + {edad})
