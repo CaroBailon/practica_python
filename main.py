@@ -1,3 +1,4 @@
 nombre = 'Carolina'
 apellido = 'Bailon'
-print('Hola mi nombre completo es :' + nombre + ' ' + apellido) + '!!!!'
+print('Mi nombre es :' + nombre)
+print('Mi apellido es:' + apellido)
